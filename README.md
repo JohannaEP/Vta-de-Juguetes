@@ -1,0 +1,2 @@
+Descripcion del Proyecto:
+Este proyecto consiste en un analisis de datos de ventas de juguetes. El conjunto de datos contiene informacion sobre las ventas de diferentes productos a lo largo del tiempo y permite obtener informacion clave sobre el rendimiento de los productos, tendencias de ventas y comportamiento del mercado. El objetivo de este analisis es identificar patrones de ventas, productos mas populares, estacionalidad y generar recomendaciones para mejorar la estrategia comercial.
